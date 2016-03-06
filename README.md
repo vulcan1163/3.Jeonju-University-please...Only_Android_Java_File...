@@ -1,0 +1,3 @@
+# 3.Jeonju-University-please...Only_Android_Java_File...
+    -- 2015년 03월 01일 ~ 06월 20일 까지 진행한 4인 팀 프로젝트 입니다. 
+    -- 이것은 안드로이드 코드만 모아 놓은 것이며 전체파일은 3.Jeonju-University-please...Android_Full_File...에 있습니다.
